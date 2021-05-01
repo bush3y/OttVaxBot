@@ -22,7 +22,7 @@ api = tweepy.API(auth, wait_on_rate_limit=True, wait_on_rate_limit_notify=True)
 #Put multiple keywords with 'OR' in between
 #Example: search = '#keywordToSearch OR #keywordToSearch2'
 #search = 'Ottawa%20AND%20%23vhcON'
-search = 'from%3AVaxHuntersCan%20Ottawa%20OR%20K1Z%20OR%20Kanata%20OR%20Barrhaven%20OR%20Orleans%20OR%20Nepean%20OR%20gander'
+search = 'vaxhunterscan%20Ottawa%20OR%20K1Z%20OR%20Kanata%20OR%20Stittsville%20OR%20Orleans%20OR%20Barrhaven%20OR%20Nepean%20%23vhcON'
 
 
 #Maximum limit of tweets to be interacted with
