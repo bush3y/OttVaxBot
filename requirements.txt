@@ -1,6 +1,2 @@
-os
-sys
-time
-random
-tweepy
-termcolor
+tweepy==1.7.1
+termcolor==1.1.0
